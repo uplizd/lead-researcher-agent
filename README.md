@@ -2,7 +2,7 @@
 
 > Open-source web UI for the **Lead Researcher Agent** — powered by [UPLIZD](https://uplizd.ai). The hosted flow builds enriched prospect lists from ICP criteria using **Apollo** (Composio), **Web Search** (`PERFORM_SEARCH`), and **HubSpot** (Composio), with **gpt-4o-mini** and a composable system prompt (`agent_md` + `execution_rule`).
 
-[![Install on UPLIZD Marketplace](https://img.shields.io/badge/UPLIZD_Marketplace-Install_Flow-4F46E5?style=for-the-badge)](https://marketplace.uplizd.ai/marketplace/lead-researcher-agent)
+[![Install on UPLIZD Marketplace](https://img.shields.io/badge/UPLIZD_Marketplace-Install_Flow-4F46E5?style=for-the-badge)](https://uplizd.ai/marketplace/lead-researcher-agent)
 
 ![Lead Researcher workflow](docs/workflow.png)
 
