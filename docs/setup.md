@@ -2,7 +2,7 @@
 
 ## Step 1 — Install the flow from UPLIZD Marketplace
 
-1. Open **[Lead Researcher Agent on UPLIZD Marketplace](https://marketplace.uplizd.ai/marketplace/lead-researcher-agent)**
+1. Open **[Lead Researcher Agent on UPLIZD Marketplace](https://uplizd.ai/marketplace/lead-researcher-agent)**
 2. Click **Install**
 3. Open the flow in your UPLIZD workspace
 4. Copy the **Flow ID** from the URL (segment after `/flow/`)
