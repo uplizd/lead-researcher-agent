@@ -45,6 +45,17 @@ You (browser)  →  this web UI  →  Express proxy  →  UPLIZD run API  →  L
 
 ---
 
+## Extension ideas
+
+Directions that keep **this repo** as UI + proxy only; enrichment logic stays in the Marketplace flow:
+
+- **ICP presets** — Reusable `execution_rule` snippets for vertical + company size + tech stack, swapped via chat without code changes.
+- **Dedup & scoring** — Agent rules that normalize domains, merge Apollo + web findings, and output a simple score (fit, intent signal, data completeness).
+- **HubSpot actions** — Document in your flow which objects to create or update (contact, company, deal) so outputs stay consistent for ops teams.
+- **Privacy / outreach tiers** — Rules that separate “research only” vs. “OK to message” fields to reduce compliance risk.
+
+---
+
 ## Stack
 
 | Layer | Tech |
